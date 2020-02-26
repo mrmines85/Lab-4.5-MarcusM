@@ -1,0 +1,11 @@
+D:\Users\mmines\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.exe
+D:\Users\mmines\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.deps.json
+D:\Users\mmines\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.json
+D:\Users\mmines\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.dev.json
+D:\Users\mmines\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.dll
+D:\Users\mmines\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.pdb
+D:\Users\mmines\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csprojAssemblyReference.cache
+D:\Users\mmines\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfoInputs.cache
+D:\Users\mmines\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfo.cs
+D:\Users\mmines\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.dll
+D:\Users\mmines\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.pdb
